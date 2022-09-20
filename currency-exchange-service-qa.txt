@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://sql.freedb.tech:3306/freedb_currency
+spring.datasource.username=freedb_likelion
+spring.datasource.password=!B8Z!P$@rG77caR
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
